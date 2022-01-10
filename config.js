@@ -1,5 +1,5 @@
 let fs = require('fs')
-global.owner = ['6285865739091', '0','628998512588', '6283175998566', '6285693602003', '6283153189868'] // Letakan nomor kamu disini
+global.owner = ['6281333154367', '0','628998512588', '6283175998566', '6285693602003', '6283153189868'] // Letakan nomor kamu disini
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -44,7 +44,7 @@ global.watermark = '© Exc' //change the watermark
 global.image = 'https://telegra.ph/file/1a3eac3701775793618b3.jpg' //change the image
 global.thumbfoto = 'https://telegra.ph/file/39bbded9693c9338069fd.jpg'
 
-global.multiplier = 59 // Semakin tinggi, semakin sulit naik level
+global.multiplier = 9999999 // Semakin tinggi, semakin sulit naik level
 
 let chalk = require('chalk')
 let file = require.resolve(__filename)
