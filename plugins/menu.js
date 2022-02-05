@@ -8,6 +8,7 @@ const defaultMenu = {
   before: `
 ┌─〔 %me 〕
 ├ Hai, *%name!*
+├ Memory Used : *${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 └────
 %readmore`.trimStart(),
   header: '┌─〔 %category 〕',
@@ -176,8 +177,8 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
       return conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
         "listMessage": {
           "title": `${ucapan()}, ${name}`.trim(),
-          "description": "Berikut ini adalah daftar menu Haruno Bot.",
-          "footerText": "Silahkan tekan tombol \"Click Here\" untuk melihat sub-menu Haruno Bot.\n\nJika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada owner.",
+          "description": "*© R-Txzy*",
+          "footerText": "Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada owner.",
           "buttonText": "Click Here",
           "listType": "SINGLE_SELECT",
           "sections": [
@@ -481,18 +482,18 @@ function clockString(ms) {
 }
 function ucapan() {
   const time = moment.tz('Asia/Jakarta').format('HH')
-  res = "Selamat dinihari"
+  res = "Selamat dinihari🌌"
   if (time >= 4) {
-    res = "Selamat pagi"
+    res = "Selamat pagi🌅"
   }
   if (time > 10) {
-    res = "Selamat siang"
+    res = "Selamat siang🏙️"
   }
   if (time >= 15) {
-    res = "Selamat sore"
+    res = "Selamat sore🌇"
   }
   if (time >= 18) {
-    res = "Selamat malam"
+    res = "Selamat malam🌃"
   }
   return res
 }
