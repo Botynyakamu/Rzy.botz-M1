@@ -25,7 +25,7 @@ let handler = async (m, { conn, args, usedPrefix, command, isPrems }) => {
 
 Hanya bisa 1 emoji, perhatikan spasi, jangan spam!
 
-Mau bikin stiker bisa 2/3 emoji? klik http://wa.me/62851577296390?text=%23stikeremoji`
+Mau bikin stiker bisa 2/3 emoji? klik http://wa.me/6282320830684?text=%23stikeremoji`
   if (!args[0]) throw er
 
   let template = (args[0] || '').toLowerCase()
