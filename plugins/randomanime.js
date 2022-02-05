@@ -1,3 +1,5 @@
+// RECODE AlyaaXzy
+
 let fetch = require('node-fetch')
 let handler = async (m, { conn, command, usedPrefix }) => {
 	
