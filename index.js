@@ -1,5 +1,6 @@
 // AlyaxD x BOTCAHX
 // update BAileys
+// No enc
 
 console.log('Memulai...')
 let { spawn } = require('child_process')
