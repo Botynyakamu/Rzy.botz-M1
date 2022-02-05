@@ -1,5 +1,5 @@
 // Thanks For Allah
-// AlyaXd
+// AlyaaXzy
 // BOTCAHX
 
 
@@ -8,6 +8,7 @@ global.owner = ['6285730903853', '6282221792667','6285730903853', '6282221792667
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
+  rey: 'https://server-api-rey.herokuapp.com',
   jonaz: 'https://jonaz-api-v2.herokuapp.com',
   neoxr: 'https://neoxr-api.herokuapp.com',
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -24,6 +25,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey nya disini
   // 'https://website': 'apikey'
+  'https://server-api-rey.herokuapp.com': 'apirey',
   'https://hardianto-chan.herokuapp.com': 'hardianto',
   'https://neoxr-api.herokuapp.com': 'yntkts',
   'https://pencarikode.xyz': 'APIKEY',
