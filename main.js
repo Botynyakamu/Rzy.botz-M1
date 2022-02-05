@@ -1,3 +1,5 @@
+// Jangan di ubah nanti error
+
 require('./config.js')
 const { WAConnection: _WAConnection } = require('@adiwajshing/baileys')
 const cloudDBAdapter = require('./lib/cloudDBAdapter')
