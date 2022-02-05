@@ -47,11 +47,11 @@
 # FITUR BOT
 
 # THANKS TO 
-â€¢ [`Baileys`](https://github.com/adiwajshing/Baileys)
+ [`Baileys`](https://github.com/adiwajshing/Baileys)
 
-â€¢ [`AlyaXzy`](https://wa.me/6289505165400)
+ [`AlyaXzy`](https://wa.me/6289505165400)
 
-â€¢ [`BOTCAHâ„¢`](https://wa.me/6282221792667)
+ [`BOTCAHâ„¢`](https://wa.me/6282221792667)
 
 # Hargai Kami Dengan Menambahkan Kredit ( Wm ) 
 
