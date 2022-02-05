@@ -1,3 +1,6 @@
+// AlyaxD x BOTCAHX
+// update BAileys
+
 console.log('Memulai...')
 let { spawn } = require('child_process')
 let path = require('path')
