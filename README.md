@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">AlyaaXzy X BOTCAH™</h1>
 
-# Jangan lupa kasih stars & follow :)
+<h1 align="center">Jangan lupa kasih stars & follow :)</h1>
 
 >
 >
