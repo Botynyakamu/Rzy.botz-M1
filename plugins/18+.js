@@ -6,7 +6,7 @@ let handler  = async (m, { conn }) => {
   conn.reply(m.chat,`${pickRandom(global.bokep)}`, m)
 }
 handler.help = ['filebokep']
-handler.tags = ['hentai']
+handler.tags = ['internet']
 handler.command = /^(filebokep)$/i
 handler.owner = false
 handler.mods = false
