@@ -372,6 +372,13 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                 "rowId": `${_p}? owner`
               }],
               "title": "─────「 25 」"
+            }, {
+              "rows": [{
+                "title":  `THANKS TO`,
+                "description": "TERIMAKASIH KEPADA DEVELOPER SC",
+                "rowId": `.tqto`
+              }],
+              "title": "THANKS TO"
             }
           ], "contextInfo": {
             "stanzaId": m.key.id,
@@ -405,6 +412,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
     // ├ ${_p + command} audio
     // ├ ${_p + command} rpg
     // ├ ${_p + command} anime
+    // ├ ${_p + command} tqto
     // ├ ${_p + command} jadibot
     // ├ ${_p + command} info
     // ├ ${_p + command} tanpa kategori
