@@ -34,4 +34,4 @@ handler.tags = ['main']
 handler.command = /^(sewa)$/i
 handler.help = ['sewa']
 module.exports = handler
-//Haruno Bot
+//R-Txzy
