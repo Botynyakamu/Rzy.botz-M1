@@ -1,3 +1,5 @@
+// RECODE ALYAAXZY
+
 let fetch = require('node-fetch')
 let timeout = 120000
 let poin = 500
@@ -18,7 +20,7 @@ Ketik ${usedPrefix}tete untuk bantuan
 Bonus: ${poin} XP
 `.trim()
     conn.tekateki[id] = [
-        await conn.send2Button(m.chat, caption, watermark, 'Bantuan', `.tete`, m),
+        await conn.sendButton(m.chat, caption, watermark, 'Bantuan', `.tete`, m),
         json, poin,
         setTimeout(async () => {
             if (conn.tekateki[id]) await conn.sendButton(m.chat, `Waktu habis!\nJawabannya adalah *${json.jawaban}*`, watermark, 'Teka Teki', `.tekateki`, conn.tekateki[id][0])
