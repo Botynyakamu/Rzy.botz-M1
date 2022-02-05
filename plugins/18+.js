@@ -1,3 +1,5 @@
+//BOTCAHX RECODE
+
 let handler  = async (m, { conn }) => {
 	
 	await m.reply('[!] Please Wait, Tunggu Sebentar')
