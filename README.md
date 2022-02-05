@@ -38,7 +38,7 @@
 > node run.js
 ```
 
-# KANNABOTZ
+# Haruno-Botz
 
 Simple WhatsApp Bot
 
