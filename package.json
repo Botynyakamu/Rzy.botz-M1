@@ -1,7 +1,7 @@
 {
   "name": "harunobot",
   "version": "2.2.0",
-  "description": "WhatsApp Bot ",
+  "description": "WhatsApp Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
