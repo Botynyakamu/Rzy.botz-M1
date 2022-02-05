@@ -1,3 +1,8 @@
+// Thanks For Allah
+// AlyaXd
+// BOTCAHX
+
+
 let fs = require('fs')
 global.owner = ['6285730903853', '6282221792667','6285730903853', '6282221792667', '6285730903853', '6282221792667'] // Letakan nomor kamu disini
 global.APIs = { // API Prefix
