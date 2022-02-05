@@ -11,11 +11,9 @@ let handler = async(m, { conn }) => {
 Silahkan klik pada "List Harga" untuk melihat list.
 
 Pembayaran:
-Saweria: https://saweria.co/FadliStudio (+5.000)
-Pulsa (XL): 6281943265086 (+5.000)
-GoPay: 628112958665
-Dana: 628112958665
-OVO: 628112958665
+Pulsa : 081395861695 
+GoPay: 085730903853
+Dana: 082221792667
 `.trim()
     const button = {
         buttonText: 'List Harga',
