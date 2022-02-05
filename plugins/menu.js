@@ -19,7 +19,7 @@ const defaultMenu = {
 let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
   let tags
   let teks = `${args[0]}`.toLowerCase()
-  let arrayMenu = ['all', 'game', 'xp', 'stiker', 'kerangajaib', 'quotes', 'admin', 'grup', 'premium', 'internet', 'anonymous', 'nulis', 'downloader', 'tools', 'fun', 'database', 'islamic', 'audio', 'jadibot', 'info', 'tanpakategori', 'owner']
+  let arrayMenu = ['all', 'game', 'xp', 'stiker', 'kerangajaib', 'quotes', 'admin', 'grup', 'premium', 'anime', 'internet', 'anonymous', 'nulis', 'downloader', 'tools', 'fun', 'database', 'islamic', 'audio', 'jadibot', 'info', 'tanpakategori', 'owner']
   if (!arrayMenu.includes(teks)) teks = '404'
   if (teks == 'all') tags = {
     'main': 'Utama',
@@ -94,6 +94,9 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
   if (teks == 'vote') tags = {
     'vote': 'Voting',
     'absen': 'Absen'
+  }
+  if (teks == 'anime') tags = {
+    'anime': 'Anime',
   }
   if (teks == 'islamic') tags = {
     'islamic': 'Islamic'
@@ -330,26 +333,33 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
               }],
               "title": "─────「 20 」"
             }, {
+            	"rows": [{
+                "title": `anime`,
+                "description": "Menu untuk mencari anime",
+                "rowId": `${_p}? anime`
+              }],
+              "title": "─────「 21 」"
+            }, {
               "rows": [{
                 "title": `Info`,
                 "description": "Menu untuk Info",
                 "rowId": `${_p}? info`
               }],
-              "title": "─────「 21 」"
+              "title": "─────「 22 」"
             }, {
               "rows": [{
                 "title": `Tanpa Kategori`,
                 "description": "Menu Tanpa Kategori",
                 "rowId": `${_p}? tanpakategori`
               }],
-              "title": "─────「 22 」"
+              "title": "─────「 23 」"
             }, {
               "rows": [{
                 "title":  `Owner Menu`,
                 "description": "Menu Khusus Owner",
                 "rowId": `${_p}? owner`
               }],
-              "title": "─────「 23 」"
+              "title": "─────「 24 」"
             }
           ], "contextInfo": {
             "stanzaId": m.key.id,
@@ -381,6 +391,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
     // ├ ${_p + command} vote
     // ├ ${_p + command} quran
     // ├ ${_p + command} audio
+    // ├ ${_p + command} anime
     // ├ ${_p + command} jadibot
     // ├ ${_p + command} info
     // ├ ${_p + command} tanpa kategori
