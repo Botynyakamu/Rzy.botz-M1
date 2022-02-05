@@ -12,6 +12,8 @@
 <p align="center">
   <a href="https://github.com/AlyaaXd"><img title="Author" src="https://img.shields.io/badge/Author-AlyaaXzy.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
+  <a href="https://github.com/BOTCAHX"><img title="Author" src="https://img.shields.io/badge/Author-BOTCAHX.svg?style=for-the-badge&logo=github" /></a>
+  <h4 align="center">
   <a
   <a href="https://wa.me/6289505165400">SC FREE API KOK GAN >//< </a>
 </h4>
