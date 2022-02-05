@@ -38,7 +38,7 @@
 > node run.js
 ```
 
-# Haruno-Botz
+# Run On Heroku
 
 Simple WhatsApp Bot
 
