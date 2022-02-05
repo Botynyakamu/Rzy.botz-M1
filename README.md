@@ -1,148 +1,58 @@
 <p align="left">
 	<img src="https://telegra.ph/file/2a994c4949315bb7f51b8.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="left">Haruno Bot</h1>
+<h1 align="left">AlyaaXzy X BOTCAH™</h1>
 
-Note: Untuk sementara repo ini belum mendapatkan update dari versi Haruno terbaru. Silahkan tunggu hingga repo ini menerima beberapa update.
+# Jangan lupa kasih stars & follow :)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FadliDarmawan/haruno)
+>
+>
+>
+</div>
+<p align="center">
+  <a href="https://github.com/AlyaaXd"><img title="Author" src="https://img.shields.io/badge/Author-AlyaaXzy.svg?style=for-the-badge&logo=github" /></a>
+  <h4 align="center">
+  <a
+  <a href="https://wa.me/6289505165400">SC FREE API KOK GAN >//< </a>
+</h4>
+</p>
 
-[![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/haruno)](https://repl.it/github/FadliDarmawan/haruno)
-
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LIX42RUhLi15MBXhfvrF6K)
-
-# Haruno Bot
-Haruno bot adalah bot whatsapp hasil pe-nggarapan ulang dari ariffb25/stikerinbot yang sudah di edit agar bisa di jalankan di termux.
-Haruno bot juga dapat di jalankan di RPP/VPS/Windows, Heroku, Replit.
-
-# Termux
-NOTE: Untuk termux silahkan hilangkan fitur fitur yang menggunakan canvas dan wsf, kemungkinan mongoDB juga tidak bisa dipakai.
-```
-apt install ffmpeg
-apt install imagemagick
-apt install nodejs
-apt install git
-git clone https://github.com/FadliDarmawan/haruno
-cd haruno
-npm i
-node . (option)
-````
-
-# RDP/VPS/Windows
-* Unduh & Instal Git [`Klik Disini`](https://git-scm.com/downloads)
-* Unduh & Instal NodeJS [`Klik Disini`](https://nodejs.org/en/download)
-* Unduh & Instal FFmpeg [`Klik Disini`](https://ffmpeg.org/download.html) (**Jangan Lupa Tambahkan FFmpeg ke variabel lingkungan PATH**)
-* Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
-```
-git clone https://github.com/FadliDarmawan/haruno
-cd natsukawa
-npm i
-node . (option)
-```
-# Replit
-[![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/natsukawa)](https://repl.it/github/FadliDarmawan/haruno)
-* Klik button
-* Buka console
-```
-npm i
-node . (option)
-```
-# Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FadliDarmawan/haruno)
-
-*install buildpack
-* heroku/nodejs
-* https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-* https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
-
-# Option
-
-## Arguments `node . [--options] [<session name>]`
-
-#### Contoh: `node . --self --restrict --autoread`
-
-### `--self`
-
-Aktifkan mode self (Mengabaikan yang lain)
-
-### `--prefix <prefixes>`
-
-* `prefixes` dipisahkan oleh masing-masing karakter
-Setel awalan
-
-### `--server`
-
-Digunakan untuk [heroku](https://heroku.com/) atau pindai melalui situs web
-
-### `--db <json-server-url>`
-
-Gunakan db eksternal alih-alih db lokal, 
-Contoh Server `https://json-server.nurutomo.repl.co/`
-Code: `https://repl.it/@Nurutomo/json-server`
-
-`node . --db 'https://json-server.nurutomo.repl.co/'`
-
-Server harus memiliki spesifikasi seperti ini
-
-#### GET
-
-```http
-GET /
-Accept: application/json
+## CARA INSTALL DI TERMUX
+```bash
+> termux-setup-storage
+> pkg update && pkg upgrade
+> pkg install git
+> pkg install nodejs
+> pkg install bash
+> pkg install ffmpeg
+> pkg install libwebp
+> git clone https://github.com/AlyaaXd/Haruno-Botz
+> cd Haruno-Botz
+> npm i
+> node run.js
+# Untuk Sdcard (File Sudah Di Download)
+> cd /sdcard
+> cp -r Haruno-Botz $HOME
+> cd Haruno-Botz
+> npm i
+> node run.js
 ```
 
-#### POST
+# INSTALLL
+* [Node.js](https://nodejs.org/en/)
+* [Git](https://git-scm.com/downloads)
+* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
+* [Libwebp](https://developers.google.com/speed/webp/download)
 
-```http
-POST /
-Content-Type: application/json
+# FITUR BOT
 
-{
- data: {}
-}
-```
+# THANKS TO 
+â€¢ [`Baileys`](https://github.com/adiwajshing/Baileys)
 
-### `--big-qr`
+â€¢ [`AlyaXzy`](https://wa.me/6289505165400)
 
-Jika qr unicode kecil tidak mendukung
+â€¢ [`BOTCAHâ„¢`](https://wa.me/6282221792667)
 
-### `--restrict`
+# Hargai Kami Dengan Menambahkan Kredit ( Wm ) 
 
-Mengaktifkan plugin terbatas (yang dapat menyebabkan nomor Anda **diblokir** jika digunakan terlalu sering)
-
-* Administrasi Grup `add, kick, promote, demote`
-
-### `--img`
-
-Aktifkan pemeriksa gambar melalui terminal
-
-### `--autoread`
-
-Jika diaktifkan, semua pesan masuk akan ditandai sebagai telah dibaca
-
-### `--nyimak`
-
-Tidak ada bot, cukup cetak pesan yang diterima dan tambahkan pengguna ke database
-
-### `--test`
-
-**Development** Testing Mode
-
-### `--trace`
-
-```js
-conn.logger.level = 'trace'
-```
-
-### `--debug`
-
-```js
-conn.logger.level = 'debug'
-```
-
----------
-
- [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![Fadli](https://github.com/FadliDarmawan.png?size=100)](https://github.com/FadliDarmawan)
-----|----|----
-[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Fadli](https://github.com/FadliDarmawan)
- Penulis / Pencipta | Penulis ulang | Pengembang ulang
+~ Selamat Memakai
