@@ -1,3 +1,5 @@
+// BOTCAHX RECODE
+
 let { MessageType } = require('@adiwajshing/baileys')
 let qrcode = require('qrcode')
 
