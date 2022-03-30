@@ -6,6 +6,7 @@ BIG THANKS TO
 •My ortu
 •Nurutomo
 •Xteam
+•Rzy-botz (Rozi)
 •AlyaaXzy 
 •BOTCAHX (Tio)
 •Zeks
