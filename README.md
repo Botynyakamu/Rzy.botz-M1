@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/2ed8f9f35b710fa78e7f3.mp4" width="200" height="200"/>
+<img src="https://telegra.ph/file/4612c9b64b34220828a63.jpg" width="200" height="200"/>
 </p>
 <p align="center">
     <a href="https://Botynyakamu.github.io">
