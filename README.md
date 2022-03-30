@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://Botynyakamu.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=21&width=280&lines=Thank+for+using+rzy+Botz+"
+            src="https://readme-typing-svg.herokuapp.com?size=21&width=280&lines=NUMPANG+KOK+BANGGA+NGAB+🗿?+"
             alt="rzy-botz"
         />
     </a>
