@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">Rzy-botz</h1>
 
-<h1 align="center">CUMAN NUMPANG DOANG KOK SOMBONG🗿</h1>
+src="https://readme-typing-svg.herokuapp.com?size=21&width=280&lines=Thank+for+using+Rzy+Botz+M1+"
 
 >
 >
