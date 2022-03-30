@@ -48,7 +48,7 @@ global.eror = '「❗」Server ERROR!'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.watermark = '©Rzy-botz' //change the watermark 
 global.image = 'https://telegra.ph/file/1a3eac3701775793618b3.jpg' //change the image
-global.thumbfoto = 'https://telegra.ph/file/90d4152ba12ed493905cc.jpg'
+global.thumbfoto = 'https://telegra.ph/file/ae6f7f701a5be2951648f.jpg'
 
 global.multiplier = 9999999 // Semakin tinggi, semakin sulit naik level
 
