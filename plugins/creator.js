@@ -1,27 +1,26 @@
 const { MessageType } = require('@adiwajshing/baileys')
 const PhoneNumber = require('awesome-phonenumber')
 async function handler(m) {
-  let name = 'AlyaXzy'
+  let name = '@⳹ ❋ཻུ۪۪CREATOR⳹ ❋ཻུ۪۪)'
   number = owner[0].replace(/[^0-9]/g, '')
   let njid = number + '@s.whatsapp.net'
   let onW = await this.isOnWhatsApp(njid) || { isBusiness: false }
 
-  let name2 = 'TioXzy'
+  let name2 = ' @⳹ ❋ཻུ۪۪CREATOR⳹ ❋ཻུ۪۪)'
   number2 = owner[1].replace(/[^0-9]/g, '')
   let njid2 = number2 + '@s.whatsapp.net'
   let onW2 = await this.isOnWhatsApp(njid2) || { isBusiness: false }
 
-  let name3 = 'AlyaXzy'
+  let name3 = '@⳹ ❋ཻུ۪۪CREATOR⳹ ❋ཻུ۪۪)'
   number3 = owner[2].replace(/[^0-9]/g, '')
   let njid3 = number3 + '@s.whatsapp.net'
   let onW3 = await this.isOnWhatsApp(njid3) || { isBusiness: false }
 
-let name4 = 'TioXzy'
+let name4 = '@⳹ ❋ཻུ۪۪CREATOR⳹ ❋ཻུ۪۪)'
   number4 = owner[3].replace(/[^0-9]/g, '')
   let njid4 = number4 + '@s.whatsapp.net'
   let onW4 = await this.isOnWhatsApp(njid4) || { isBusiness: false }
-
-  m.reply(`Nomer owner itu *bukan bot*, tapi nomor _*pemilik bot*_\n\nSilahan chat jika ada keperluan.\nChat "P" atau minta save kemungkinan tidak akan di balas, dan -9999 social credit.`)
+  this.send2Button(m.chat, `*Ngapain cari owner??*\n\n*Mau donasi/sewa DLL?.*\n*Di harapkan tidak menelpon/menyepam no owner.*`, name4, 'Menu', '.menu', 'Group Bot', '.gcbot', m)
   this.sendMessage(m.chat, {
     contacts: [{
       displayname: name, vcard: `
