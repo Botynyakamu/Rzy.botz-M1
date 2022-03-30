@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://avatars.githubusercontent.com/siegrin" width="200" height="200"/>
+<img src="https://telegra.ph/file/ae6f7f701a5be2951648f.jpg" width="200" height="200"/>
 </p>
 <p align="center">
     <a href="https://siegrin.github.io">
