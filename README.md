@@ -14,7 +14,7 @@
 <a href="https://Botynyakamu.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-Rozi-purple.svg?style=for-the-badge&logo=github"></a>
 <a href="https://BOTCAHX.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-BOTCAHX-purple.svg?style=for-the-badge&logo=github"></a>
 <a href="https://AlyaaXd.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-Alya-purple.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/siegrin"><img title="Creator" src="https://img.shields.io/badge/Creator-Luc-purple.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/siegrin"><img title="Creator" src="https://img.shields.io/badge/membantu-Luc-purple.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Botynyakamu/followers"><img title="Followers" src="https://img.shields.io/github/followers/Botynyakamu?color=green&style=flat-square"></a>
