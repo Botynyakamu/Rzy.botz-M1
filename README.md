@@ -11,13 +11,13 @@
 </p>
 </p>
 <p align="center">
-<a href="https://Botynyakamu.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-Rzy-purple.svg?style=for-the-badge&logo=github"></a>
+<a href="https://Botynyakamu.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-Rozi-purple.svg?style=for-the-badge&logo=github"></a>
 <a href="https://BOTCAHX.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-BOTCAHX-purple.svg?style=for-the-badge&logo=github"></a>
-<a href="https://AlyaaXd.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-AlyaaXd-purple.svg?style=for-the-badge&logo=github"></a>
+<a href="https://AlyaaXd.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-Alya-purple.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/siegrin/followers"><img title="Followers" src="https://img.shields.io/github/followers/siegrin?color=green&style=flat-square"></a>
-<a href="https://github.com/siegrin/LucBot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/siegrin/LucBot?color=white&style=flat-square"></a>
+<a href="https://github.com/Botynyakamu/followers"><img title="Followers" src="https://img.shields.io/github/followers/Botynyakamu?color=green&style=flat-square"></a>
+<a href="https://github.com/Botynyakamu/Rzy/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Botynyakamu/Rzy?color=white&style=flat-square"></a>
 <a href="https://github.com/siegrin/LucBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/siegrin/LucBot?color=yellow&style=flat-square"></a>
 <a href="https://github.com/siegrin/LucBot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/siegrin/LucBot?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/siegrin/LucBot"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
