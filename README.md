@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://telegra.ph/file/7e131dda0a92d105f529a.jpg" alt="AlyaaXzy X BOTCAHï¿½" width="300" />
+<img src="https://telegra.ph/file/ae6f7f701a5be2951648f.jpg" alt="AlyaaXzy X BOTCAHï¿½" width="300" />
 
 </p>
-<h1 align="center">SC HANYA RECODE</h1>
+<h1 align="center">Rzy-botz</h1>
 
-<h1 align="center">Jangan lupa kasih stars & follow :)</h1>
+<h1 align="center">CUMAN NUMPANG DOANG KOK SOMBONG🗿</h1>
 
 >
 >
@@ -15,7 +15,7 @@
   <h4 align="center">
   <a href="https://github.com/BOTCAHX"><img title="Author" src="https://img.shields.io/badge/Author-BOTCAHX.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
-<a href="https://github.com/Botynyakamu"><img title="Author" src="https://img.shields.io/badge/Recode-Botynyakamu.svg?style=for-the-badge&logo=github" /></a>
+<a href="https://github.com/Botynyakamu"><img title="Author" src="https://img.shields.io/badge/Author-Botynyakamu.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
   <a
   <a href="https://wa.me/6289505165400">SC FREE API KOK GAN >//< </a>
@@ -119,7 +119,7 @@ Simple WhatsApp Bot
 [![BOTCAHX](https://github.com/BOTCAX.png?size=100)](https://github.com/BOTCAHX) | [![ALYA](https://github.com/AlyaaXd.png?size=100)](https://github.com/AlyaaXd) | [![ZIFABOTZ](https://github.com/Botynyakamu.png?size=100)](https://github.com/botynyakamu)
 ----|----|----
 [BOTCAHX](https://github.com/BOTCAX) | [ALYA](https://github.com/AlyaaXd) | [ZIFABOTZ](https://github.com/Botynyakamu)
- Penulis / Pencipta | Penulis / pencipta | recode
+ Penulis / Pencipta | Penulis / pencipta | Penulis / pencipta
 
 # Hargai Kami Dengan Menambahkan Kredit ( Wm ) 
 
