@@ -2,7 +2,7 @@
 <img src="https://telegra.ph/file/ae6f7f701a5be2951648f.jpg" alt="AlyaaXzy X BOTCAHï¿½" width="300" />
 
 </p>
-<h1 align="center">Rzy-botz</h1>
+src="https://readme-typing-svg.herokuapp.com?size=21&width=280&lines=Thank+for+using+Luc+Bot+"
 
 src="https://readme-typing-svg.herokuapp.com?size=21&width=280&lines=Thank+for+using+Rzy+Botz+M1+"
 
