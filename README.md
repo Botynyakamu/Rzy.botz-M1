@@ -37,14 +37,14 @@
 > pkg install bash
 > pkg install ffmpeg
 > pkg install libwebp
-> git clone https://github.com/AlyaaXd/R-Txyz-Botz
-> cd R-Txyz-Botz
+> git clone https://github.com/Botynyakamu/Rzy-botz-M1
+> cd Rzy-botz-M1
 > npm i
 > node run.js
 # Untuk Sdcard (File Sudah Di Download)
 > cd /sdcard
-> cp -r R-Txyz-Botz $HOME
-> cd R-Txyz-Botz
+> cp -r Rzy-botz-M1 $HOME
+> cd Rzy-botz-M1
 > npm i
 > node run.js
 ```
@@ -96,7 +96,7 @@ Simple WhatsApp Bot
 
 # Ambil [seesion.data.json] Di sini
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/ScanQr-botwea-6#index.js?lite=1&outputonly=1#.replit)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@zeeoneofc/SessionByZeeoneOfc?lite=1&outputonly=1#.replit)
 
 
 
