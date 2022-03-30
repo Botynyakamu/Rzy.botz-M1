@@ -4,7 +4,7 @@ let handler = async(m, { conn }) => {
 Kebijakan Privasi, Syarat Ketentuan dan Peraturan Haruno Bot
 
 Kebijakan Privasi
-1. R-Txzy tidak akan merekam data riwayat chat user.
+1. Rzy-botz tidak akan merekam data riwayat chat user.
 2. Rzy-botz tidak akan menyebarkan nomor users.
 3. Rzy-botz tidak akan menyimpan media yang dikirimkan oleh users.
 4. Rzy-botz tidak akan menyalah gunakan data data users.
