@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://telegra.ph/file/ae6f7f701a5be2951648f.jpg" width="200" height="200"/>
+<img src="https://telegra.ph/file/2ed8f9f35b710fa78e7f3.mp4" width="200" height="200"/>
 </p>
 <p align="center">
-    <a href="https://siegrin.github.io">
+    <a href="https://Botynyakamu.github.io">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=21&width=280&lines=Thank+for+using+rzy+Botz+"
             alt="rzy-botz"
