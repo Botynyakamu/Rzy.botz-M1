@@ -5,7 +5,7 @@
     <a href="https://siegrin.github.io">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=21&width=280&lines=Thank+for+using+rzy+Botz+"
-            alt="LucBot"
+            alt="rzy-botz"
         />
     </a>
 </p>
@@ -18,12 +18,12 @@
 <p align="center">
 <a href="https://github.com/Botynyakamu/followers"><img title="Followers" src="https://img.shields.io/github/followers/Botynyakamu?color=green&style=flat-square"></a>
 <a href="https://github.com/Botynyakamu/Rzy/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Botynyakamu/Rzy?color=white&style=flat-square"></a>
-<a href="https://github.com/siegrin/LucBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/siegrin/LucBot?color=yellow&style=flat-square"></a>
-<a href="https://github.com/siegrin/LucBot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/siegrin/LucBot?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/siegrin/LucBot"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/siegrin/LucBot/"><img title="Size" src="https://img.shields.io/github/repo-size/siegrin/LucBot?style=flat-square&color=darkred"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsiegrin%2FHaruka&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/siegrin/LucBot/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Botynyakamu/Rzy/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Botynyakamu/Rzy?color=yellow&style=flat-square"></a>
+<a href="https://github.com/Botynyakamu/Rzy/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Botynyakamu/Rzy?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/Botynyakamu/Rzy"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/Botynyakamu/Rzy/"><img title="Size" src="https://img.shields.io/github/repo-size/Botynyakamu/Rzy?style=flat-square&color=darkred"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBotynyakamu%2FHaruka&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Botynyakamu/Rzy/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 </p>
 
 ## Change Session 
