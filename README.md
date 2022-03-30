@@ -4,14 +4,16 @@
 <p align="center">
     <a href="https://siegrin.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=21&width=280&lines=Thank+for+using+Luc+Bot+"
+            src="https://readme-typing-svg.herokuapp.com?size=21&width=280&lines=Thank+for+using+rzy+Botz+"
             alt="LucBot"
         />
     </a>
 </p>
 </p>
 <p align="center">
-<a href="https://siegrin.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-Siegrin-purple.svg?style=for-the-badge&logo=github"></a>
+<a href="https://Botynyakamu.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-Rzy-purple.svg?style=for-the-badge&logo=github"></a>
+<a href="https://BOTCAHX.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-BOTCAHX-purple.svg?style=for-the-badge&logo=github"></a>
+<a href="https://AlyaaXd.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-AlyaaXd-purple.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/siegrin/followers"><img title="Followers" src="https://img.shields.io/github/followers/siegrin?color=green&style=flat-square"></a>
