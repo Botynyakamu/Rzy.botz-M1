@@ -1,4 +1,4 @@
-// Recode AlyaaXzy
+// Recode Rzy-botz
 
 let handler  = async (m, { conn, usedPrefix: _p }) => {
 ye = `@${m.sender.split`@`[0]}`
