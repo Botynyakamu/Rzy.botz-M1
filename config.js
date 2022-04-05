@@ -6,16 +6,17 @@ let fs = require('fs')
 global.owner = ['6285828764046', '6285828764046','6285828764046','6285828764046','6285828764046'] // Letakan nomor kamu disini
 global.APIs = { // API Prefix
   // nama: 'https://website'
-  hardianto: 'https://hardianto-chan.herokuapp.com',
-  rey: 'https://server-api-rey.herokuapp.com',
+  hardianto: 'https://hardianto.xyz',
+  rey: 'https://sekha.tech',
+  aqulz: 'https://api.justaqul.xyz',
   jonaz: 'https://jonaz-api-v2.herokuapp.com',
-  neoxr: 'https://neoxr-api.herokuapp.com',
+  neoxr: 'https://api.neoxr.my.id',
   nrtm: 'https://nurutomo.herokuapp.com',
-  pencarikode: 'https://pencarikode.xyz',
+  pencarikode: 'https://api.chipa.xyz',
   xteam: 'https://api.xteam.xyz',
   zahir: 'https://zahirr-web.herokuapp.com',
-  zekais: 'http://zekais-api.herokuapp.com',
-  zeks: 'https://api.zeks.xyz',
+  zekais: 'http://api.zekais.com',
+  zeks: 'https://api.zeks.me',
   vhtear: 'https://api.vhtear.com',
   lolhum: 'https://api.lolhuman.xyz',
   fxc7: 'https://fxc7-api.herokuapp.com',
@@ -24,18 +25,18 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey nya disini
   // 'https://website': 'apikey'
-  'https://server-api-rey.herokuapp.com': 'apirey',
-  'https://hardianto-chan.herokuapp.com': 'hardianto',
-  'https://neoxr-api.herokuapp.com': 'yntkts',
-  'https://pencarikode.xyz': 'APIKEY',
+  'https://sekha.tech': 'apirey',
+  'https://hardianto.xyz': 'hardianto',
+  'https://api.neoxr.my.id': 'yntkts',
+  'https://api.chipa.xyz': 'APIKEY',
   'https://api.xteam.xyz': 'HIRO',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.xyz': 'nyyxz-bot',
+  'https://api.zeks.me': 'nyyxz-bot',
   'https://api.lolhuman.xyz': 'ed6c4f2c72b6f92f7d201464',
   'https://api.vhtear.com': 'sayahafiz',
   'https://fxc7-api.herokuapp.com': 'uN8rsK4g',
   'https://api.justaqul.xyz': '5kbUqdG00OXelFYx',
-  'http://zekais-api.herokuapp.com': 'grqgD6pU',
+  'http://api.zekais.com': 'grqgD6pU',
   'https://bx-hunter.herokuapp.com': 'Ikyy69',
 }
 
